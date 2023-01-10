@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @02premjeet
-- 👀 I’m interested in java
-- 🌱 I’m currently learning dsa.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey , Welcome to my GitHub 👨‍💻❤️
+              
 
-<!---
-02premjeet/02premjeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📖 📚 Skilled in 📕 🖥️
+Languages:Java
+    
+
+Web Development (Full-stack):
+•Backend/Server:
+ -j2ee,jsp,servlet,spring boot,hibernate,tomcat,
+         
+•Micro-Services:
+  -Rest api  
+
+•Frontend/UI:
+       -html,css,bootstarp
+
+•Database:
+     -mysql
+
+Cloud/Dev-Ops:
+       - maven,git,github
+
+    
