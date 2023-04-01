@@ -9,7 +9,7 @@ Web Development (Full-stack):
 •Backend/Server:
  -j2ee,jsp,servlet,spring boot,hibernate,tomcat,
          
-•Micro-Services:
+•Web-Services:
   -Rest api  
 
 •Frontend/UI:
