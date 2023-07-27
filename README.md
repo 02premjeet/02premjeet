@@ -7,13 +7,13 @@ Languages:Java
 
 Web Development (Full-stack):
 •Backend/Server:
- -j2ee,jsp,servlet,spring boot,hibernate,tomcat,
+ -j2ee,jsp,servlet,spring boot,hibernate,tomcat 
          
 •Web-Services:
-  -Rest api  
+  -Rest api,PostMan
 
 •Frontend/UI:
-       -html,css,bootstarp
+       - JavaScript,ReactJS, html,css,bootstarp
 
 •Database:
      -mysql
